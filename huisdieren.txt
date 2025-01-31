@@ -1,2 +1,4 @@
 Wasabi
 Winston
+Valdi
+Wodan
